@@ -36948,7 +36948,7 @@ q=A.a([],r)
 for(p=["AA","AS","AII","ELT"],o=0;o<4;++o)B.b.F(q,A.a([A.e2(p[o],A.a2_().$1$fontSize(40),k),B.uk],r))
 return A.zp(B.a4,A.hg(A.a([h,B.bv,s,A.l4(q,B.a9,B.aV),B.bv,A.afx(B.zy,new A.dY(new A.aK(0,10,0,10),A.hg(A.a([B.La,A.e2("RESTARTED!",k,k)],r),B.b8,k,B.a9,B.al),k),new A.a0m(l)),B.bv,A.e2(i,k,k)],r),B.bG,k,B.bQ,B.al),B.t,B.h,0,k,k,k,k,B.cL)}h=l.ge3()[l.w]
 s=t.E
-r=A.a([A.a6Z(A.fm(l.gjh().a[1]).a,B.zx,new A.a0n(l)),B.uj,A.aiz(A.a6Y(B.ji,A.fm(l.gjh().a[1]).a),new A.dY(new A.aK(0,10,0,10),A.hg(A.a([A.e2("Prev",A.nn(k,k,A.fm(l.gjh().a[1]).a,k,k,k,k,k,k,k,k,14,k,k,k,k,k,!0,k,k,k,k,k,k,k,k),k)],s),B.b8,k,B.a9,B.al),k),new A.a0o(l)),new A.BR(k)],s)
+r=A.a([A.a6Z(A.fm(l.gjh().a[1]).b,B.zx,new A.a0n(l)),B.uj,A.aiz(A.a6Y(B.ji,A.fm(l.gjh().a[1]).b),new A.dY(new A.aK(0,10,0,10),A.hg(A.a([A.e2("Prev",A.nn(k,k,A.fm(l.gjh().a[1]).b,k,k,k,k,k,k,k,k,14,k,k,k,k,k,!0,k,k,k,k,k,k,k,k),k)],s),B.b8,k,B.a9,B.al),k),new A.a0o(l)),new A.BR(k)],s)
 if(l.w+1<l.ge3().length)r.push(A.afi(A.a6Y(B.jj,k),new A.dY(new A.aK(0,10,0,10),A.hg(A.a([B.uv,A.e2(l.ge3()[l.w+1].a[3]+" "+l.ge3()[l.w+1].a[0],A.aa(a).p2.r,k)],s),B.b8,k,B.a9,B.al),k),new A.a0p(l)))
 r.push(B.uj)
 r.push(A.a6Z(A.fm(l.gjh().a[1]).b,B.zv,new A.a0q(l)))
@@ -36957,7 +36957,7 @@ q=A.fm(l.gjh().a[1])
 p=A.Km(100)
 n=l.w
 m=l.ge3().length
-s=A.a([new A.vf(h,k),A.S0(0,A.hg(A.a([new A.dY(B.z2,r,k),A.jY(new A.qy(10,A.Km(100),n/m,A.fm(l.gjh().a[1]).b,A.fm(l.gjh().a[1]).a,k,k,k,k),B.t,k,k,new A.dL(q.b,k,k,p,k,k,B.b1),k,new A.aK(24,24,24,24),new A.aK(2,2,2,2),k)],s),B.bG,k,B.a9,B.aV),k,k,0,0,k,k)],s)
+s=A.a([new A.vf(h,k),A.S0(0,A.hg(A.a([new A.dY(B.z2,r,k),A.jY(new A.qy(10,A.Km(100),n/m,A.fm(l.gjh().a[1]).b,A.fm(l.gjh().a[1]).a,k,k,k,k),B.t,k,k,new A.dL(q.b,k,k,p,k,k,B.b1),k,new A.aK(24,24,24,24),new A.aK(2,2,2,2),k)],s),B.bG,k,B.a9,B.aV),k,k,200,0,k,k)],s)
 if(l.w>=0){h=l.ge3()[l.w].a[1]
 r=A.amK(l.ge3()[l.w].a[1])
 q=l.r
@@ -37041,7 +37041,7 @@ s===$&&A.b()
 s.l()
 this.Le()},
 V(a){var s,r,q,p,o,n,m,l,k=this,j=null,i=A.a3J(0,A.e2(k.a.c.a[1],A.a2_().$1$fontSize(100),j),j),h=A.P2("assets/usdb.png",B.h,100),g=A.a2_().$3$color$fontSize$shadows(B.h,80,A.a([new A.f6(B.h,new A.z(0,0),7)],t.j8)),f=k.a.c.a[1],e=t.rr,d=t.E
-g=A.jY(A.KS(A.hg(A.a([h,B.bv,A.hO(A.LN(A.a5D(A.a([A.a6I(" "+f+" "),A.a6I(f)],e),new A.a0d(),!0),j,j,B.bx,!0,g,j,j,B.as),100,j)],d),B.bG,j,B.bQ,B.al),j,j),B.t,B.k,j,j,1/0,j,j,300)
+g=A.jY(A.KS(A.hg(A.a([h,B.bv,A.hO(A.LN(A.a5D(A.a([A.a6I(" "+f+" "),A.a6I(f)],e),new A.a0d(),!0),j,j,B.bx,!0,g,j,j,B.as),100,j)],d),B.bG,j,B.bQ,B.al),j,j),B.t,B.k,j,j,1/0,j,j,200)
 f=k.e
 f===$&&A.b()
 h=k.a.c.a
